@@ -1,0 +1,7 @@
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\obj\Debug\PlanetRover.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\obj\Debug\PlanetRover.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\bin\Debug\PlanetRover.exe.config
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\bin\Debug\PlanetRover.exe
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\bin\Debug\PlanetRover.pdb
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\obj\Debug\PlanetRover.exe
+D:\GoogleDrive\SwinburneUniversity\Programming\OOPrograms\PlanetRover\PlanetRover\obj\Debug\PlanetRover.pdb
